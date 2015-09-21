@@ -1,5 +1,6 @@
 import os
 import requests
+import csv
 from local_settings import SUNLIGHT_API_KEY
 
 filename = 'contact.csv'
@@ -15,6 +16,7 @@ results = results.json()
 
 
 with open(filename, 'a') as outfile:
+    writer = csv.writer(outfile)
     for r in results:
         name = r['full_name']
         print(name)
@@ -39,7 +41,6 @@ with open(filename, 'a') as outfile:
                 email = o['email']
             if 'phone' in o and o['phone']:
                 phone = o['phone']
-        line = ','.join([state,name,chamber,district,party,email,phone])
-        outfile.write(line+'\n')
+        writer.writerow([state,name,chamber,district,party,email,phone])
 
 
