@@ -258,7 +258,7 @@ ar,Richard Womack,lower,18,Republican,richard@richardwomack.com,870-403-6287
 ar,"Milton Nicks, Jr.",lower,50,Democratic,milton.nicks@arkansashouse.org,870-739-5360
 ar,Mickey Gates,lower,22,Republican,mickey@mickeygates.com,501-623-1100
 ar,Dwight Tosh,lower,52,Republican,dwight.tosh@arkansashouse.org,870-926-0423
-ar,Jana Della Rosa,lower,90,Republican,dellarosa4arkansas@gmail.com,479-236-3060
+ar,Jana Della Rosa,lower,90,Republican,Jana.DellaRosa@arkansashouse.org,479-236-3060
 ar,Charles Blake,lower,36,Democratic,charles.blake@arkansashouse.org,501-425-9824
 ar,Karilyn Brown,lower,41,Republican,karilyn.brown@arkansashouse.org,501-580-9000
 ar,Dan Sullivan,lower,53,Republican,dan.sullivan@arkansashouse.org,870-275-2929
@@ -438,12 +438,11 @@ ca,Kansen Chu,lower,25,Democratic,,408-262-2501
 ca,Chris R. Holden,lower,41,Democratic,,909-624-7876
 ca,Marc Steinorth,lower,40,Republican,,909-476-5023
 ca,Eduardo Garcia,lower,56,Democratic,,760-347-2360
-ca,Patty López,lower,39,Democratic,,818-365-2464
 ca,Jay Obernolte,lower,33,Republican,,760-244-5277
 ca,Ling Ling Chang,lower,55,Republican,,714-529-5502
 ca,Autumn R. Burke,lower,62,Democratic,,310-412-6400
 ca,Tom Lackey,lower,36,Republican,,661-267-7636
-ca,Sebastian Ridley-Thomas,lower,54,Democratic,,310-342-1070
+ca,Sebastian Ridley-Thomas,lower,54,Democratic,,323-291-5441
 ca,Young O. Kim,lower,65,Republican,,714-521-6505
 ca,Chad Mayes,lower,42,Republican,,760-346-6342
 ca,David Hadley,lower,66,Republican,,310-375-0691
@@ -471,7 +470,6 @@ ca,Marc Levine,lower,10,Democratic,,707-576-2631
 ca,Travis Allen,lower,72,Republican,,714-843-4966
 ca,Mark Stone,lower,29,Democratic,,831-649-2832
 ca,Shirley N. Weber,lower,79,Democratic,,619-531-7913
-ca,Bill Quirk,lower,20,Democratic,,510-583-8818
 ca,Marie Waldron,lower,75,Republican,,760-480-7570
 ca,Tony Thurmond,lower,15,Democratic,,510-286-1400
 ca,Devon J. Mathis,lower,26,Republican,,559-636-3440
@@ -479,6 +477,7 @@ ca,Jim Wood,lower,2,Democratic,,707-463-5770
 ca,Jim Cooper,lower,9,Democratic,,916-670-7888
 ca,Cristina Garcia,lower,58,Democratic,,562-861-5803
 ca,Evan Low,lower,28,Democratic,,408-446-2810
+ca,Bill Quirk,lower,20,Democratic,,510-583-8818
 ca,Frank Bigelow,lower,5,Republican,,209-223-0505
 ca,Susan Talamantes Eggman,lower,13,Democratic,,209-948-7479
 ca,Luis Alejo,lower,30,Democratic,,831-761-7428
@@ -502,6 +501,7 @@ ca,Richard Gordon,lower,24,Democratic,,650-691-2121
 ca,Melissa A. Melendez,lower,67,Republican,,951-894-1232
 ca,"Reginald B. Jones-Sawyer, Sr.",lower,59,Democratic,,213-744-2111
 ca,Rocky J. Chávez,lower,76,Republican,,760-433-7601
+ca,Patty López,lower,39,Democratic,,818-365-2464
 ca,Kristin Olsen,lower,12,Republican,,209-576-6425
 ca,Beth Gaines,lower,6,Republican,,916-774-4430
 ca,Mark Leno,upper,11,Democratic,,415-557-1300
@@ -523,7 +523,6 @@ ca,Richard D. Roth,upper,31,Democratic,,951-680-6750
 ca,John M. W. Moorlach,upper,37,Republican,,714-662-6050
 ca,Patricia C. Bates,upper,36,Republican,,760-642-0809
 ca,Steven M. Glazer,upper,7,Democratic,,925-754-1461
-ca,Sharon Runner,upper,21,Republican,,661-286-1471
 ca,Mike McGuire,upper,2,Democratic,,707-468-8914
 ca,Mike Morrell,upper,23,Republican,,909-919-7731
 ca,Connie M. Leyva,upper,20,Democratic,,909-888-5360
@@ -835,6 +834,7 @@ dc,Vincent Orange,upper,At-Large,Democratic,vorange@dccouncil.us,202-724-8174
 dc,Anita Bonds,upper,At-Large,Democratic,abonds@dccouncil.us,202-724-8064
 dc,Yvette Alexander,upper,Ward 7,Democratic,yalexander@dccouncil.us,202-724-8068
 dc,David Grosso,upper,At-Large,Independent,dgrosso@dccouncil.us,202-724-8105
+dc,Robert White Jr.,upper,At-Large,Democratic,rwhite@dccouncil.us,202-724-8174
 dc,Jack Evans,upper,Ward 2,Democratic,jevans@dccouncil.us,202-724-8058
 dc,LaRuby May,upper,Ward 8,Democratic,LMay@DCCOUNCIL.US,202-724-8045
 dc,Brianne Nadeau,upper,Ward 1,Democratic,bnadeau@dccouncil.us,202-724-8181
@@ -889,7 +889,7 @@ de,Bruce C. Ennis,upper,14,Democratic,bruce.ennis@state.de.us,302-744-4310
 de,Brian J. Bushweller,upper,17,Democratic,brian.bushweller@state.de.us,302-744-4162
 de,Nicole Poore,upper,12,Democratic,Nicole.Poore@state.de.us,302-577-8744
 de,Brian Pettyjohn,upper,19,Republican,Brian.Pettyjohn@state.de.us,302-744-4048
-de,Bryant L. Richardson,upper,21,Republican,,302-744-4298
+de,Bryant L. Richardson,upper,21,Republican,Bryant.Richardson@state.de.us,302-744-4298
 de,Gerald W. Hocker,upper,20,Republican,Gerald.Hocker@state.de.us,302-744-4144
 de,Karen E. Peterson,upper,9,Democratic,Karen.Peterson@state.de.us,302-999-7522
 de,Ernesto B. Lopez,upper,6,Republican,Ernesto.Lopez@state.de.us,302-744-4136
@@ -1068,7 +1068,6 @@ fl,Jack Latvala,upper,20,Republican,latvala.jack.web@flsenate.gov,850-487-5020
 fl,Rene Garcia,upper,38,Republican,garcia.rene.web@flsenate.gov,850-487-5038
 ga,Lynn Smith,lower,70,Republican,lynn.smith@house.ga.gov,4046567149
 ga,Matt Hatchett,lower,150,Republican,matt.hatchett@house.ga.gov,4046565025
-ga,Carl Gilliard,lower,162,Democratic,,
 ga,Trey Rhodes,lower,120,Republican,trey.rhodes@house.ga.gov,4046560325
 ga,Karen Bennett,lower,94,Democratic,karen.bennett@house.ga.gov,4046560202
 ga,Micah Gravley,lower,67,Republican,micah.gravley@house.ga.gov,4046560152
@@ -1129,6 +1128,7 @@ ga,Robert Trammell,lower,132,Democratic,bob.trammell@house.ga.gov,4046560314
 ga,Erica Thomas,lower,39,Democratic,erica.thomas@house.ga.gov,4046567859
 ga,Wes Cantrell,lower,22,Republican,wesley.cantrell@house.ga.gov,4046560202
 ga,Bill Werkheiser,lower,157,Republican,bill.werkheiser@house.ga.gov,9126543610
+ga,Carl Wayne Gilliard,lower,162,Democratic,carl.gilliard@house.ga.gov,4046560298
 ga,Marie Metze,lower,55,Democratic,marie.metze@house.ga.gov,4046566372
 ga,Betty Price,lower,48,Republican,betty.price@house.ga.gov,4046560202
 ga,David Clark,lower,98,Republican,david.clark@house.ga.gov,4046560325
@@ -1249,14 +1249,14 @@ ga,Park Cannon,lower,58,Democratic,park.cannon@house.ga.gov,4046567859
 ga,Bruce Thompson,upper,14,Republican,,4046601165
 ga,Ben Watson,upper,1,Republican,,9125275100
 ga,Greg Kirk,upper,13,Republican,,2298549706
-ga,Michael Williams,upper,27,Republican,,4046567127
 ga,Marty Harbin,upper,16,Republican,,4046560078
 ga,P. K. Martin IV,upper,9,Republican,,7703782102
 ga,Michael 'Doc' Rhett,upper,33,Democratic,,4046560054
 ga,Harold V. Jones II,upper,22,Democratic,,7063391424
 ga,John F. Kennedy,upper,18,Republican,,4787499981
-ga,Elena Parent,upper,42,Democratic,,4042299596
+ga,Elena Parent,upper,42,Democratic,,4046565109
 ga,Dean Burke,upper,11,Republican,,2292436267
+ga,Michael Williams,upper,27,Republican,,4046567127
 ga,Charlie Bethel,upper,54,Republican,,7062701685
 ga,Larry Walker III,upper,20,Republican,,4046560081
 ga,Bill Heath,upper,31,Republican,,7705375234
@@ -1657,6 +1657,7 @@ il,Martin J. Moylan,lower,55,Democratic,staterepmoylan@gmail.com,847-635-6821
 il,Litesa E. Wallace,lower,67,Democratic,Litesa@StateRepWallace.com,815-987-7433
 il,Pamela Reaves-Harris,lower,10,Democratic,repreavesharris@gmail.com,312-877-5074
 il,David Reis,lower,109,Republican,,618-392-0108
+il,David A. Welter,lower,75,Republican,welter@ilhousegop.org,815-416-1475
 il,Thomas M. Bennett,lower,106,Republican,,815-844-9179
 il,Charles Meier,lower,108,Republican,repcmeier@gmail.com,618-651-0405
 il,Jerry F. Costello II,lower,116,Democratic,staterepcostello@gmail.com,618-282-7284
@@ -1665,7 +1666,6 @@ il,Sara Wojcicki Jimenez,lower,99,Republican,,217-782-0044
 il,Jehan A. Gordon,lower,92,Democratic,repjgordon@gmail.com,309-681-1992
 il,Rita Mayfield,lower,60,Democratic,,847-599-2800
 il,Anthony DeLuca,lower,80,Democratic,repdeluca@sbcglobal.net,708-754-7900
-il,John D. Anthony,lower,75,Republican,anthony@repanthony.com,815-416-1475
 il,"Elgie R. Sims, Jr.",lower,34,Democratic,Repsims34@gmail.com,773-783-8800
 il,Michelle Mussman,lower,56,Democratic,staterepmussman@gmail.com,847-923-9104
 il,Margo McDermed,lower,37,Republican,McDermed@ilhousegop.org,815-277-2079
@@ -1690,7 +1690,7 @@ il,Jack D. Franks,lower,63,Democratic,jack@jackfranks.org,815-334-0063
 il,Bill Mitchell,lower,101,Republican,repmitchell@earthlink.net,217-876-1968
 il,Silvana Tabares,lower,21,Democratic,rep.tabares@gmail.com,773-522-1315
 il,Laura Fine,lower,17,Democratic,repfine@gmail.com,847-998-1717
-il,David McSweeney,lower,52,Republican,ilhouse52@gmail.com,847-516-0052
+il,David McSweeney,lower,52,Republican,mcsweeney@ilhousegop.org,847-516-0052
 il,Adam Brown,lower,102,Republican,,217-607-5104
 il,Luis Arroyo,lower,3,Democratic,RepDistrict3@gmail.com,773-637-2000
 il,Sheri Jesiel,lower,61,Republican,jesiel@ilhousegop.org,847-395-8000
@@ -1728,8 +1728,8 @@ il,La Shawn K. Ford,lower,8,Democratic,repford@lashawnford.com,773-378-5902
 il,Cynthia Soto,lower,4,Democratic,4repsoto@gmail.com,773-252-0402
 il,Dwight Kay,lower,112,Republican,dwightkay112@gmail.com,618-307-9200
 il,"Lawrence Walsh, Jr.",lower,86,Democratic,statereplarrywalshjr@gmail.com,815-730-8600
+il,David S. Olsen,lower,81,Republican,olsen@ilhousegop.org,630-737-0504
 il,Michael Unes,lower,91,Republican,repunes@gmail.com,309-620-8631
-il,Ron Sandack,lower,81,Republican,repsandack@gmail.com,630-737-0504
 il,David R. Leitch,lower,73,Republican,repdavidleitch@gmail.com,309-690-7373
 il,Keith R. Wheeler,lower,50,Republican,office@repkeithwheeler.org,630-345-3464
 il,Keith P. Sommer,lower,88,Republican,sommer@mtco.com,309-263-9242
@@ -1747,7 +1747,6 @@ il,Robert W. Pritchard,lower,70,Republican,bob@pritchardstaterep.com,815-748-349
 il,David Harris,lower,53,Republican,repharris@yahoo.com,224-764-2440
 il,Jeanne M Ives,lower,42,Republican,Ives@jeanneives.org,630-384-1108
 il,Thomas Morrison,lower,54,Republican,Repmorrison54@gmail.com,847-202-6584
-il,David A. Welter,lower,75,Republican,,815-416-1475
 il,Fred Crespo,lower,44,Democratic,,630-372-3340
 il,Michael J. Zalewski,lower,23,Democratic,info@repmikezalewski.org,708-442-6500
 il,John Bradley,lower,117,Democratic,repjohnbradley@mychoice.net,618-997-9697
@@ -1764,9 +1763,11 @@ il,David Koehler,upper,46,Democratic,,309-677-0120
 il,Michael G. Connelly,upper,21,Republican,,630-682-8101
 il,Steve Stadelman,upper,34,Democratic,,815-987-7557
 il,Chuck Weaver,upper,37,Republican,,309-693-4921
-il,Omar Aquino,upper,2,Democratic,,217-782-5652
+il,Tom Rooney,upper,27,Republican,,847-776-1490
+il,Omar Aquino,upper,2,Democratic,,773-292-0202
 il,Neil Anderson,upper,36,Republican,,309-736-7084
 il,Thomas Cullerton,upper,23,Democratic,,630-903-6662
+il,Thomas M Rooney,upper,27,Republican,,847-776-1490
 il,Kyle McCarter,upper,54,Republican,,618-283-3000
 il,Laura M. Murphy,upper,28,Democratic,,847-656-5414
 il,Patricia Van Pelt,upper,5,Democratic,,312-888-9191
@@ -1781,7 +1782,6 @@ il,Linda Holmes,upper,42,Democratic,,630-801-8985
 il,William R. Haine,upper,56,Democratic,,618-465-4764
 il,Antonio Muñoz,upper,1,Democratic,,773-869-9050
 il,Tim Bivins,upper,45,Republican,,815-284-0045
-il,Dale A. Righter,upper,55,Republican,,217-235-6033
 il,Martin A. Sandoval,upper,11,Democratic,,708-656-2002
 il,Wm. Sam McCann,upper,50,Republican,,217-245-0050
 il,Steven M. Landek,upper,12,Democratic,,708-430-2510
@@ -1812,6 +1812,7 @@ il,Jason Barickman,upper,53,Republican,,309-661-2788
 il,Don Harmon,upper,39,Democratic,,708-848-2002
 il,Dave Syverson,upper,35,Republican,,815-987-7555
 il,Pamela J. Althoff,upper,32,Republican,,815-455-6330
+il,Dale A. Righter,upper,55,Republican,,217-235-6033
 in,Robin Shackleford,lower,98,Democratic,,800-382-9842
 in,Mike Aylesworth,lower,11,Republican,,800-382-9841
 in,Edward Clere,lower,72,Republican,,800-382-9841
@@ -2010,7 +2011,6 @@ ks,Adam Lusker,lower,2,Democratic,adam.lusker@house.ks.gov,785-296-7698
 ks,Diana Dierks,lower,71,Republican,diana.dierks@house.ks.gov,785-296-7642
 ks,Jack Thimesch,lower,114,Republican,jack.thimesch@house.ks.gov,785-296-7105
 ks,John Barker,lower,70,Republican,john.barker@house.ks.gov,785-296-7674
-ks,Daniel Hawkins,lower,100,Republican,dan.hawkins@house.ks.gov,785-296-7631
 ks,Don Hill,lower,60,Republican,don.hill@house.ks.gov,785-296-7632
 ks,Will Carpenter,lower,75,Republican,will.carpenter@house.ks.gov,785-296-7673
 ks,Kent Thompson,lower,9,Republican,kent.thompson@house.ks.gov,785-296-7640
@@ -2025,11 +2025,11 @@ ks,Erin Davis,lower,15,Republican,erin.davis@house.ks.gov,785-296-7658
 ks,Dick Jones,lower,52,Republican,dick.jones@house.ks.gov,785-296-7483
 ks,Linda Gallagher,lower,23,Republican,linda.gallagher@house.ks.gov,785-296-7548
 ks,Randy Powell,lower,30,Republican,randy.powell@house.ks.gov,785-296-5593
+ks,Daniel Hawkins,lower,100,Republican,dan.hawkins@house.ks.gov,785-296-7631
 ks,Michael Houser,lower,1,Republican,michael.houser@house.ks.gov,785-296-7679
 ks,Chuck Weber,lower,85,Republican,chuck.weber@house.ks.gov,785-296-7688
 ks,Larry Hibbard,lower,13,Republican,larry.hibbard@house.ks.gov,785-296-7380
 ks,Mario Goico,lower,94,Republican,mario.goico@house.ks.gov,785-296-7663
-ks,Annie Tietze,lower,53,Democratic,annie.tietze@house.ks.gov,785-296-7668
 ks,Ken Corbet,lower,54,Republican,ken.corbet@house.ks.gov,785-296-7679
 ks,Ramon Gonzalez,lower,47,Republican,ramon.gonzalezjr@house.ks.gov,785-296-7500
 ks,Blake Carpenter,lower,81,Republican,blake.carpenter@house.ks.gov,785-296-7567
@@ -2052,7 +2052,6 @@ ks,Kyle Hoffman,lower,116,Republican,kyle.hoffman@house.ks.gov,785-296-7643
 ks,Marvin Kleeb,lower,48,Republican,marvin.kleeb@house.ks.gov,785-296-7680
 ks,Valdenia Winn,lower,34,Democratic,valdenia.winn@house.ks.gov,785-296-7657
 ks,Willie Dove,lower,38,Republican,willie.dove@house.ks.gov,785-296-7677
-ks,Randy Garber,lower,62,Republican,randy.garber@house.ks.gov,785-296-7665
 ks,William Sutton,lower,43,Republican,bill.sutton@house.ks.gov,785-296-7676
 ks,Mark Kahrs,lower,87,Republican,mark.kahrs@house.ks.gov,785-296-7476
 ks,Stephanie Clayton,lower,19,Republican,stephanie.clayton@house.ks.gov,785-296-7548
@@ -2088,6 +2087,7 @@ ks,Jerry Lunn,lower,28,Republican,jerry.lunn@house.ks.gov,785-296-7675
 ks,John Whitmer,lower,93,Republican,john.whitmer@house.ks.gov,785-296-7567
 ks,Greg Lewis,lower,113,Republican,greg.lewis@house.ks.gov,785-296-7682
 ks,Ken Rahjes,lower,110,Republican,ken.rahjes@house.ks.gov,785-296-7676
+ks,Randy Garber,lower,62,Republican,randy.garber@house.ks.gov,785-296-7665
 ks,Tom Hawk,upper,22,Democratic,Tom.Hawk@senate.ks.gov,785-296-7360
 ks,Molly Baumgardner,upper,37,Republican,Molly.Baumgardner@senate.ks.gov,785-296-7368
 ks,Jacob LaTurner,upper,13,Republican,Jacob.LaTurner@senate.ks.gov,785-296-7370
@@ -2419,7 +2419,6 @@ ma,Patricia A. Haddad,lower,Fifth Bristol,Democratic,Patricia.Haddad@mahouse.gov
 ma,Mary S. Keefe,lower,Fifteenth Worcester,Democratic,Mary.Keefe@mahouse.gov,617-722-2210
 ma,Byron Rushing,lower,Ninth Suffolk,Democratic,Byron.Rushing@mahouse.gov,617-722-2783
 ma,David T. Vieira,lower,Third Barnstable,Republican,David.Vieira@mahouse.gov,508-548-8683
-ma,Thomas P. Walsh,lower,Twelfth Essex,Democratic,Thomas.Walsh@mahouse.gov,617-722-2676
 ma,Jeffrey Sanchez,lower,Fifteenth Suffolk,Democratic,Jeffrey.sanchez@mahouse.gov,617-722-2430
 ma,Steven S. Howitt,lower,Fourth Bristol,Republican,Steven.Howitt@mahouse.gov,617-722-2305
 ma,Paul R. Heroux,lower,Second Bristol,Democratic,Paul.Heroux@mahouse.gov,508-639-9511
@@ -2521,13 +2520,12 @@ ma,Elizabeth A. Poirier,lower,Fourteenth Bristol,Republican,Elizabeth.Poirier@ma
 ma,Daniel J. Ryan,lower,Second Suffolk,Democratic,Dan.Ryan@mahouse.gov,617-722-2575
 ma,Timothy R. Whelan,lower,First Barnstable,Republican,Timothy.Whelan@mahouse.gov,617-722-2014
 ma,Gerard Cassidy,lower,Ninth Plymouth,Democratic,Gerard.Cassidy@mahouse.gov,617-722-2400
-ma,Thomas Walsh,lower,Twelfth Essex,Democratic,Thomas.Walsh@mahouse.gov,617-722-2676
+ma,Thomas P. Walsh,lower,Twelfth Essex,Democratic,Thomas.Walsh@mahouse.gov,617-722-2676
 ma,Susannah M. Whipps Lee,lower,Second Franklin,Republican,Susannah.WhippsLee@mahouse.gov,617-722-2090
 ma,Paul K. Frost,lower,Seventh Worcester,Republican,Paul.Frost@mahouse.gov,617-722-2489
 ma,Alan Silvia,lower,Seventh Bristol,Democratic,Alan.Silvia@mahouse.gov,774-526-1122
 ma,Angelo J. Puppolo Jr.,lower,Twelfth Hampden,Democratic,Angelo.Puppolo@mahouse.gov,413-596-4333
 ma,Benjamin Swan,lower,Eleventh Hampden,Democratic,Benjamin.Swan@mahouse.gov,413-739-8547
-ma,Robert F. Fennell,lower,Tenth Essex,Democratic,Robert.Fennell@mahouse.gov,781-599-6881
 ma,Paul W. Mark,lower,Second Berkshire,Democratic,Paul.Mark@mahouse.gov,413-464-5635
 ma,Bruce J. Ayers,lower,First Norfolk,Democratic,Bruce.Ayers@mahouse.gov,617-722-2230
 ma,Stephen Kulik,lower,First Franklin,Democratic,Stephen.Kulik@mahouse.gov,413-977-3580
@@ -2572,20 +2570,16 @@ ma,James J. Lyons Jr,lower,Eighteenth Essex,Republican,James.Lyons@mahouse.gov,6
 ma,Thomas M. Stanley,lower,Ninth Middlesex,Democratic,Thomas.Stanley@mahouse.gov,617-722-2230
 ma,Gloria L. Fox,lower,Seventh Suffolk,Democratic,Gloria.Fox@mahouse.gov,617-722-2810
 ma,Walter F. Timilty,lower,Seventh Norfolk,Democratic,Walter.Timilty@mahouse.gov,617-722-2230
-ma,Joseph Boncore,upper,First Suffolk and Middlesex,Democratic,Joseph.Boncore@masenate.gov,617-722-1634
 ma,Bruce E. Tarr,upper,First Essex and Middlesex,Republican,Bruce.Tarr@masenate.gov,617-722-1600
 ma,Stanley C. Rosenberg,upper,"Hampshire, Franklin and Worcester",Democratic,Stan.Rosenberg@masenate.gov,413-584-1649
 ma,Mark C. Montigny,upper,Second Bristol and Plymouth,Democratic,Mark.Montigny@masenate.gov,508-984-1474
 ma,Harriette L. Chandler,upper,First Worcester,Democratic,Harriette.Chandler@masenate.gov,617-722-1544
 ma,Cynthia Stone Creem,upper,First Middlesex and Norfolk,Democratic,Cynthia.Creem@masenate.gov,617-722-1639
-ma,Patrick O'Connor,upper,Plymouth and Norfolk,Republican,Patrick.O'Connor@masenate.gov,617-722-1646
 ma,James T. Welch,upper,Hampden,Democratic,James.Welch@masenate.gov,413-737-7756
 ma,Joseph A. Boncore,upper,First Suffolk and Middlesex,Democratic,Joseph.Boncore@masenate.gov,617-722-1634
 ma,Eric P. Lesser,upper,First Hampden and Hampshire,Democratic,eric.lesser@masenate.gov,413-526-6501
 ma,Michael D. Brady,upper,Second Plymouth and Bristol,Democratic,Michael.Brady@masenate.gov,617-722-1200
 ma,Kathleen O'Connor Ives,upper,First Essex,Democratic,Kathleen.OConnorIves@masenate.gov,617-722-1604
-ma,Patrick M. O'Connor,upper,Plymouth and Norfolk,Republican,Patrick.O'Connor@masenate.gov,617-722-1646
-ma,Patrick M. OConnor,upper,Plymouth and Norfolk,Republican,Patrick.O'Connor@masenate.gov,617-722-1646
 ma,Viriato Manuel deMacedo,upper,Plymouth and Barnstable,Republican,Vinny.deMacedo@masenate.gov,508-747-6500
 ma,Barbara L'Italien,upper,Second Essex and Middlesex,Democratic,barbara.l'italien@masenate.gov,617-722-1612
 ma,Sal N. DiDomenico,upper,Middlesex and Suffolk,Democratic,Sal.DiDomenico@masenate.gov,617-722-1650
@@ -2615,6 +2609,7 @@ ma,Karen Spilka,upper,Second Middlesex and Norfolk,Democratic,Karen.Spilka@masen
 ma,Kenneth J. Donnelly,upper,Fourth Middlesex,Democratic,Kenneth.Donnelly@masenate.gov,617-722-1432
 ma,John F. Keenan,upper,Norfolk and Plymouth,Democratic,John.Keenan@masenate.gov,617-722-1494
 ma,Jason M. Lewis,upper,Fifth Middlesex,Democratic,Jason.Lewis@masenate.gov,617-722-1206
+ma,Patrick M. OConnor,upper,Plymouth and Norfolk,Republican,Patrick.O'Connor@masenate.gov,617-722-1646
 md,James W Gilchrist,lower,17,Democratic,jim.gilchrist@house.state.md.us,410-841-3744
 md,Joseph F Vallario Jr.,lower,23B,Democratic,joseph.vallario@house.state.md.us,410-841-3488
 md,Frank S Turner,lower,13,Democratic,frank.turner@house.state.md.us,410-841-3246
@@ -3002,7 +2997,6 @@ mi,Earl Poleski,lower,64,Republican,EarlPoleski@house.mi.gov,5173731795
 mi,Jeff Irwin,lower,53,Democratic,JeffIrwin@house.mi.gov,5173732577
 mi,Tom Cochran,lower,67,Democratic,TomCochran@house.mi.gov,5173730587
 mi,Lee Chatfield,lower,107,Republican,LeeChatfield@house.mi.gov,5173732629
-mi,Joel Johnson,lower,97,Republican,JoelJohnson@house.mi.gov,5173738962
 mi,Thomas Hooker,lower,77,Republican,ThomasHooker@house.mi.gov,5173732277
 mi,Pat Somerville,lower,23,Republican,PatSomerville@house.mi.gov,5173730855
 mi,Charles Brunner,lower,96,Democratic,CharlesBrunner@house.mi.gov,5173730158
@@ -3015,6 +3009,7 @@ mi,Phil Phelps,lower,49,Democratic,RepPhelps@house.mi.gov,5173737515
 mi,Lana Theis,lower,42,Republican,LanaTheis@house.mi.gov,5173731784
 mi,Scott Dianda,lower,110,Democratic,ScottDianda@house.mi.gov,5173730850
 mi,George Darany,lower,15,Democratic,GeorgeTDarany@house.mi.gov,5173730847
+mi,Gary Howell,lower,82,Republican,GaryHowell@house.mi.gov,5173731800
 mi,Henry Vaupel,lower,47,Republican,HankVaupel@house.mi.gov,5173738835
 mi,Bill LaVoy,lower,17,Democratic,BillLaVoy@house.mi.gov,5173731530
 mi,Roger Victory,lower,88,Republican,RogerVictory@house.mi.gov,5173731830
@@ -3050,7 +3045,6 @@ mi,Chris Afendoulis,lower,73,Republican,ChrisAfendoulis@house.mi.gov,5173730218
 mi,Marilyn Lane,lower,31,Democratic,MarilynLane@house.mi.gov,5173730159
 mi,Michael McCready,lower,40,Republican,MikeMcCready@house.mi.gov,5173738670
 mi,Henry Yanez,lower,25,Democratic,HenryYanez@house.mi.gov,5173732275
-mi,Julie Plawecki,lower,11,Democratic,JuliePlawecki@house.mi.gov,5173730849
 mi,Kristy Pagan,lower,21,Democratic,KristyPagan@house.mi.gov,5173732575
 mi,Jeff Farrington,lower,30,Republican,JeffFarrington@house.mi.gov,5173737768
 mi,John Chirkun,lower,22,Democratic,JohnChirkun@house.mi.gov,5173730854
@@ -3077,6 +3071,7 @@ mi,David Rutledge,lower,54,Democratic,DavidRutledge@house.mi.gov,5173731771
 mi,Kurt Heise,lower,20,Republican,KurtHeise@house.mi.gov,5173733816
 mi,Andrea LaFontaine,lower,32,Republican,AndreaLaFontaine@house.mi.gov,5173738931
 mi,Lisa Posthumus Lyons,lower,86,Republican,LisaLyons@house.mi.gov,5173730846
+mi,Joel Johnson,lower,97,Republican,JoelJohnson@house.mi.gov,5173738962
 mi,Mike Callton,lower,87,Republican,MikeCallton@house.mi.gov,5173730842
 mi,Holly Hughes,lower,91,Republican,HollyHughes@house.mi.gov,5173733436
 mi,Andy Schor,lower,68,Democratic,AndySchor@house.mi.gov,5173730826
@@ -3098,7 +3093,6 @@ mi,Bruce Rendon,lower,103,Republican,BruceRendon@house.mi.gov,5173733817
 mi,Rick Outman,lower,70,Republican,RickOutman@house.mi.gov,5173730834
 mi,Mary Whiteford,lower,80,Republican,MaryWhiteford@house.mi.gov,5173730836
 mi,Al Pscholka,lower,79,Republican,AlPscholka@house.mi.gov,5173731403
-mi,Gary Howell,lower,82,Republican,GaryHowell@house.mi.gov,5173731800
 mi,"Knollenberg, Marty",upper,13,Republican,,517-373-2523
 mi,Tory Rocca,upper,10,Republican,,517-373-7315
 mi,Joe Hune,upper,22,Republican,,517-373-2420
@@ -3347,8 +3341,6 @@ mo,Joe Adams,lower,86,Democratic,,573-751-4265
 mo,Alan Green,lower,67,Democratic,,573-751-2135
 mo,Rob Vescovo,lower,112,Republican,,573-751-3607
 mo,Rebecca Roeber,lower,34,Republican,,573-751-1456
-mo,S. Nick King,lower,17,Republican,,573-751-1218
-mo,S.Nick King King,lower,17,Republican,,573-751-1218
 mo,Joe Runions,lower,37,Democratic,,573-751-0238
 mo,Tom McDonald,lower,28,Democratic,,573-751-9851
 mo,Don Phillips,lower,138,Republican,,573-751-3851
@@ -4679,6 +4671,7 @@ nj,Jamel C. Holley,lower,20,Democratic,,908-624-0880
 nj,Annette Chaparro,lower,33,Democratic,,201-683-7917
 nj,Joseph V Egan,lower,17,Democratic,,732-249-4550
 nj,Arthur Barclay,lower,5,Democratic,,856-547-4800
+nj,Blonnie R. Watson,lower,29,Democratic,,973-624-1730
 nj,Andrew Zwicker,lower,16,Democratic,,609-454-3147
 nj,Robert J. Karabinchak,lower,18,Democratic,,732-548-1406
 nj,John S Wisniewski,lower,19,Democratic,,732-432-8460
@@ -4692,7 +4685,6 @@ nj,Amy H Handlin,lower,13,Republican,,732-383-7820
 nj,Reed Gusciora,lower,15,Democratic,,609-571-9638
 nj,Annette Quijano,lower,20,Democratic,,908-327-9119
 nj,John F McKeon,lower,27,Democratic,,973-377-1606
-nj,Patrick J Diegnan Jr.,lower,18,Democratic,,908-757-1677
 nj,Paul D Moriarty,lower,4,Democratic,,856-232-6700
 nj,Brian E Rumpf,lower,9,Republican,,609-693-6700
 nj,John DiMaio,lower,23,Republican,,908-722-1365
@@ -4720,7 +4712,6 @@ nj,Vincent Mazzeo,lower,2,Democratic,,609-383-1388
 nj,Jerry Green,lower,22,Democratic,,908-561-5757
 nj,Wayne P DeAngelo,lower,14,Democratic,,609-631-7501
 nj,Valerie Vainieri Huttle,lower,37,Democratic,,201-541-1118
-nj,L. Grace Spencer,lower,29,Democratic,,973-624-1730
 nj,Gordon M Johnson,lower,37,Democratic,,201-530-0469
 nj,Gary S Schaer,lower,36,Democratic,,973-249-3665
 nj,James Beach,upper,6,Democratic,,856-429-1572
@@ -4733,7 +4724,6 @@ nj,Linda R. Greenstein,upper,14,Democratic,,609-395-9911
 nj,Stephen M. Sweeney,upper,3,Democratic,,856-251-9801
 nj,Anthony R. Bucco,upper,25,Republican,,973-627-9700
 nj,Nilsa Cruz-Perez,upper,5,Democratic,,856-541-1251
-nj,Patrick J. Diegnan Jr,upper,18,Democratic,,908-757-1677
 nj,Loretta Weinberg,upper,37,Democratic,,201-928-0100
 nj,Richard J Codey,upper,27,Democratic,,973-535-5017
 nj,Joseph Pennacchio,upper,26,Republican,,973-227-4012
@@ -4752,6 +4742,7 @@ nj,Jennifer Beck,upper,11,Republican,,732-933-1591
 nj,Christopher J Connors,upper,9,Republican,,609-693-6700
 nj,Brian P Stack,upper,33,Democratic,,201-721-5263
 nj,Jeff Van Drew,upper,1,Democratic,,609-465-0700
+nj,Patrick J Diegnan Jr.,upper,18,Democratic,,908-757-1677
 nj,Gerald Cardinale,upper,39,Republican,,201-567-2324
 nj,Kevin J O'Toole,upper,40,Republican,,973-237-1360
 nj,Nicholas P Scutari,upper,22,Democratic,,908-587-0404
@@ -4953,6 +4944,7 @@ ny,Chad Lupinacci,lower,10,Republican,LupinacciC@nyassembly.gov,518-455-5732
 ny,"Dilan, Erik",lower,54,Democratic,DilanE@nyassembly.gov,518-455-5821
 ny,William Magnarelli,lower,129,Democratic,MagnarW@nyassembly.gov,518-455-4826
 ny,Nicole Malliotakis,lower,64,Republican,malliotakisn@nyassembly.gov,518-455-5716
+ny,"Ron Castorina, Jr.",lower,62,Republican,castorinar@nyassembly.gov,518-455-4495
 ny,James Skoufis,lower,99,Democratic,SkoufisJ@nyassembly.gov,518-455-5441
 ny,Carmen Arroyo,lower,84,Democratic,ArroyoC@nyassembly.gov,518-455-5402
 ny,Steven Cymbrowitz,lower,45,Democratic,CymbroS@nyassembly.gov,518-455-5214
@@ -4982,7 +4974,6 @@ ny,Daniel O'Donnell,lower,69,Democratic,OdonnellD@nyassembly.gov,518-455-5603
 ny,Phil Steck,lower,110,Democratic,SteckP@nyassembly.gov,518-455-5931
 ny,Joseph Lentol,lower,50,Democratic,LentolJ@nyassembly.gov,518-455-4477
 ny,Michael Fitzpatrick,lower,8,Republican,FitzpatrickM@nyassembly.gov,518-455-5021
-ny,"Castorina Jr., Ron",lower,62,Republican,castorinar@nyassembly.gov,518-455-4495
 ny,Harry Bronson,lower,138,Democratic,bronsonh@nyassembly.gov,518-455-4527
 ny,"Hunter, Pamela",lower,128,Democratic,HunterP@nyassembly.gov,518-455-5383
 ny,"Hyndman, Alicia",lower,29,Democratic,HunterP@nyassembly.gov,518-455-4451
@@ -5167,8 +5158,8 @@ oh,John Patterson,lower,99,Democratic,rep99@ohiohouse.gov,614-466-1405
 oh,Michele Lepore-Hagan,lower,58,Democratic,rep58@ohiohouse.gov,614-466-9435
 oh,John Barnes Jr.,lower,12,Democratic,rep12@ohiohouse.gov,614-466-1408
 oh,Kristin Boggs,lower,18,Democratic,rep18@ohiohouse.gov,614-466-1896
+oh,Derek Merrin,lower,47,Republican,rep47@ohiohouse.gov,614-466-1731
 oh,A. Nino Vitale,lower,85,Republican,rep85@ohiohouse.gov,614-466-1507
-oh,Tim W. Brown,lower,3,Republican,rep03@ohiohouse.gov,614-466-8104
 oh,John Boccieri,lower,59,Democratic,rep59@ohiohouse.gov,614-466-6107
 oh,Gary Scherer,lower,92,Republican,rep92@ohiohouse.gov,614-644-7928
 oh,Sean O'Brien,lower,63,Democratic,rep63@ohiohouse.gov,614-466-3488
@@ -5194,6 +5185,7 @@ oh,Kyle Koehler,lower,79,Republican,rep79@ohiohouse.gov,614-466-2038
 oh,Stephen D. Hambley,lower,69,Republican,rep69@ohiohouse.gov,614-466-8140
 oh,Rick Perales,lower,73,Republican,rep73@ohiohouse.gov,614-644-6020
 oh,Niraj J. Antani,lower,42,Republican,rep42@ohiohouse.gov,614-466-6504
+oh,Theresa Gavarone,lower,3,Republican,rep03@ohiohouse.gov,614-466-8104
 oh,Scott Ryan,lower,71,Republican,rep71@ohiohouse.gov,614-466-1482
 oh,Paul Zeltwanger,lower,54,Republican,rep54@ohiohouse.gov,614-644-6027
 oh,Jonathan Dever,lower,28,Republican,rep28@ohiohouse.gov,614-466-8120
@@ -5222,7 +5214,6 @@ oh,Kathleen Clyde,lower,75,Democratic,rep75@ohiohouse.gov,614-466-2004
 oh,Michael Sheehy,lower,46,Democratic,rep46@ohiohouse.gov,614-466-1418
 oh,Mike Ashford,lower,44,Democratic,rep44@ohiohouse.gov,614-466-1401
 oh,Andrew Brenner,lower,67,Republican,rep67@ohiohouse.gov,614-644-6711
-oh,Barbara R Sears,lower,47,Republican,rep47@ohiohouse.gov,614-466-1731
 oh,Jack Cera,lower,96,Democratic,rep96@ohiohouse.gov,614-466-3735
 oh,Louis Terhar,lower,30,Republican,rep30@ohiohouse.gov,614-466-8258
 oh,Jim Buchy,lower,84,Republican,rep84@ohiohouse.gov,614-466-6344
@@ -5525,13 +5516,13 @@ or,Jeff Kruse,upper,1,Republican,Sen.JeffKruse@state.or.us,503-986-1701
 pa,Steven C. Mentzer,lower,97,Republican,,717-787-1776
 pa,Lynwood W. Savage,lower,192,Democratic,,717-783-2192
 pa,Lynda Schlegel Culver,lower,108,Republican,,717-787-3485
+pa,"Quinn, Christopher B.",lower,168,Republican,,717-720-8555
 pa,Stephen McCarter,lower,154,Democratic,,717-783-1079
 pa,Steve Samuelson,lower,135,Democratic,,717-705-1881
 pa,"Wentling, Parke",lower,17,Republican,,855-249-2427
 pa,"White, Martina A.",lower,170,Republican,,717-787-6740
 pa,"Acosta, Leslie",lower,197,Democratic,,717-772-2004
 pa,"Schweyer, Peter",lower,22,Democratic,,717-787-2909
-pa,"Nelson, Eric R.",lower,57,Republican,,717-260-6146
 pa,Neal P Goodman,lower,123,Democratic,,717-787-2798
 pa,Kerry A Benninghoff,lower,171,Republican,,717-783-1918
 pa,Jordan A. Harris,lower,186,Democratic,,717-783-1792
@@ -5539,7 +5530,6 @@ pa,"Cook-Artis, Tonyelle",lower,200,Democratic,,717-783-2178
 pa,"Lewis, Harry",lower,74,Republican,,717-787-1806
 pa,"Wheeland, Jeff C.",lower,83,Republican,,717-787-2885
 pa,"Rader, Jack",lower,176,Republican,,717-787-7732
-pa,"Quinn, Christopher B.",lower,168,Republican,,
 pa,"Warner, Ryan",lower,52,Republican,,717-787-1540
 pa,Paul Costa,lower,34,Democratic,,717-783-1914
 pa,Tina Pickett,lower,110,Republican,,717-783-8238
@@ -5678,6 +5668,7 @@ pa,Ryan A. Bizzarro,lower,3,Democratic,,717-772-2297
 pa,Dan Truitt,lower,156,Republican,,717-260-6164
 pa,Eli Evankovich,lower,54,Republican,,717-260-6129
 pa,Rosita C Youngblood,lower,198,Democratic,,717-787-7727
+pa,"Nelson, Eric R.",lower,57,Republican,,717-260-6146
 pa,Tim Mahoney,lower,51,Democratic,,717-772-2174
 pa,Matthew E Baker,lower,68,Republican,,717-772-5371
 pa,H. Scott Conklin,lower,77,Democratic,,717-787-9473
@@ -5776,11 +5767,11 @@ pa,Gene Yaw,upper,23,Republican,,570-265-7448
 pa,Kim L Ward,upper,39,Republican,kward@pasen.gov,724-600-7002
 pa,David G Argall,upper,29,Republican,dargall@pasen.gov,570-668-1240
 pr,Gabriel Rodríguez Aguiló,lower,13,Partido Nuevo Progresista,,787723-0109
+pr,Luis E. Torres Monsegur,lower,23,Partido Popular Democrático,,787-723-5840
 pr,Ricardo J. Llerandi Cruz,lower,14,Partido Nuevo Progresista,,787-680-7835
 pr,José Anibal Díaz Collazo,lower,29,Partido Popular Democrático,,787-622-4885
 pr,Angel Muñoz Suárez,lower,18,Partido Nuevo Progresista,,787-622-4992
 pr,María M. Charbonier Laureano,lower,At-Large,Partido Nuevo Progresista,,787-721-1190
-pr,Luis E. Torres Monsegur,lower,23,Partido Popular Democrático,,787-723-5840
 pr,Urayoan Hernández Alvarado,lower,26,Partido Nuevo Progresista,,787-725-4431
 pr,Armando Franco González,lower,17,Partido Popular Democrático,,787-729-9005
 pr,Antonio L. Soto Torres,lower,6,Partido Nuevo Progresista,,787-725-2698
@@ -5984,7 +5975,6 @@ sc,W. Brian White,lower,6,Republican,,803-734-3144
 sc,P. Michael Forrester,lower,34,Republican,,803-212-6792
 sc,Terry Alexander,lower,59,Democratic,,803-734-3004
 sc,Christopher R. Hart,lower,73,Democratic,,803-734-3061
-sc,Edward L. Southard,lower,100,Republican,,803-212-6930
 sc,J. David Weeks,lower,51,Democratic,,803-734-3102
 sc,Wendell G. Gilliard,lower,111,Democratic,,803-212-6793
 sc,Heather Ammons Crawford,lower,68,Republican,,803-212-6933
@@ -6090,6 +6080,7 @@ sc,Thomas E. Pope,lower,47,Republican,,803-734-2701
 sc,J. Seth Whipper,lower,113,Democratic,,803-734-3191
 sc,William K. Bowers,lower,122,Democratic,,803-734-2959
 sc,"Wallace H. ""Jay"" Jordan, Jr.",lower,63,Republican,,803-212-6785
+sc,"Sylleste H. Davis, Mrs. Michael",lower,100,Republican,,803-212-6930
 sc,Sylleste H. Davis,lower,100,Republican,,803-212-6930
 sc,"Michael W. ""Mike"" Gambrell",upper,4,Republican,,803-212-6024
 sc,Robert W. Hayes Jr.,upper,15,Republican,,803-212-6240
@@ -6099,7 +6090,6 @@ sc,John L. Scott Jr.,upper,19,Democratic,,803-786-2373
 sc,Ronnie A. Sabb,upper,32,Democratic,,803-212-6032
 sc,Michael L. Fair,upper,6,Republican,,803-212-6420
 sc,Joel Lourie,upper,22,Democratic,,803-212-6116
-sc,William H. O'Dell,upper,4,Republican,,803-212-6350
 sc,Shane R. Martin,upper,13,Republican,,803-212-6100
 sc,Nikki G. Setzler,upper,26,Democratic,,803-796-7573
 sc,Tom Davis,upper,46,Republican,,803-212-6008
