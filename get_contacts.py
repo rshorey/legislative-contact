@@ -1,14 +1,14 @@
 import os
 import requests
 import csv
-from local_settings import SUNLIGHT_API_KEY
+from local_settings import API_KEY
 
 filename = 'contact.csv'
 outfile = open(filename, 'w')
 outfile.write('state,name,chamber,district,party,email,phone\n')
 outfile.close() #makes sure file is empty & has headers
 
-key = SUNLIGHT_API_KEY
+key = API_KEY
 base_url = "http://openstates.org/api/v1/legislators/?apikey={key}&active=True"
 
 results = requests.get(base_url.format(key=key))
